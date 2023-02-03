@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>tset1.jsp</h1>
+<h1>testt1.jsp</h1>
 <h2>git edit</h2>
-<h2>git uodate</h2>
+<h2>git update</h2>
 </body>
 </html>
